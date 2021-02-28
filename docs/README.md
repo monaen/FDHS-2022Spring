@@ -2,9 +2,9 @@
 
 ![digital health lecture series 2021 spring](https://github.com/monaen/DHLO-2021Spring/raw/main/lecture.png "digital health lecture series 2021 spring")
 
-| Instructor:   | Dr. Teng Zhang (Grace), Mr. Xihe Kuang (Tony), Dr. Nan Meng (Naen), etc. |
+| Instructor:   | Dr. Teng Zhang (Grace), Dr. Nan Meng (Naen), Mr. Xihe Kuang (Tony), Ms. Moxin Zhao |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
-| Email:         | Grace: tgzhang@hku.hk  Tony: tony.kuangxh@hotmail.com  Naen: nanmeng@hku.hk |
+| Email:         | Grace : tgzhang@hku.hk Naen : nanmeng@hku.hk Tony : u3006668@connect.hku.hk Moxin : moxin@connect.hku.hk |
 | Date:          | Depend  |
 | Duration:    | Depend  |
 | Zoom ID:    | Depend  |
