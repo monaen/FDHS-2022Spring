@@ -35,7 +35,7 @@ You can also export the list of packages in an environment to a file, then inclu
 
 Anaconda is available for **Windows**, **Mac OS X**, and **Linux**. You can find the installers and installation instructions at the official webpage https://www.anaconda.com/download/.
 
-Or you can also find the installation guidelines from the following link:
+Or you can also find the installation guidelines from the following links:
 
 * [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 * [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
