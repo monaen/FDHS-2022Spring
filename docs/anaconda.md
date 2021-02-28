@@ -1,7 +1,7 @@
 # Anaconda
 
 ## Introduction
-[Anaconda](https://anaconda.org/) is a distribution of packages built for data science. It comes with <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda</code>, a package and environment manager. You'll be using conda to create environments for isolating your projects that use different versions of Python and/or different packages. You'll also use it to install, uninstall, and update packages in your environments. Using [Anaconda](https://anaconda.org/) has made your life working with data much more pleasant.
+[Anaconda](https://anaconda.org/) is a distribution of packages built for data science. It comes with <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda</code>, a package and environment manager. You'll be using conda to create environments for isolating your projects that use different versions of Python and/or different packages. You'll also use it to install, uninstall, and update packages in your environments. With [Anaconda](https://anaconda.org/), your life working with data will be much more pleasant.
 
 In this python course, we use [Anaconda](https://anaconda.org/) to manage packages and environments for use with Python. With [Anaconda](https://anaconda.org/), it's simple to install the packages you'll often use in data science work. You'll also use it to create virtual environments that make working on multiple projects much less mind-twisting. Anaconda has simplified your workflow and solved a lot of issues you had dealing with packages and multiple Python versions.
 
