@@ -2,7 +2,7 @@
 DHLO2021: Digital Health Lab Open Lecture Series -- 2021 Spring
 [TOC]
 
-![digital health lecture series 2021 spring](/uploads/lecture_notes_2021/images/m_2d2ab9a72850ed8e08eb23781f1b47e8_r.png "digital health lecture series 2021 spring")
+![digital health lecture series 2021 spring](https://github.com/monaen/DHLO-2021Spring/raw/main/lecture.png "digital health lecture series 2021 spring")
 
 | Instructor:   | Dr. Teng Zhang (Grace), Mr. Xihe Kuang (Tony), Dr. Nan Meng (Naen), etc. |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
