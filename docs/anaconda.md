@@ -33,7 +33,7 @@ You can also export the list of packages in an environment to a file, then inclu
 
 ## Installation
 
-Anaconda is available for **Windows**, **Mac OS X**, and **Linux**. You can find the installers and installation instructions at the official webpage https://www.anaconda.com/download/.
+Anaconda is available for **Windows**, **Mac OS X**, and **Linux**. You can find the installers and installation instructions at the official webpage [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
 
 Or you can also find the installation guidelines from the following links:
 
