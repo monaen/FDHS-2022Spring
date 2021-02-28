@@ -32,7 +32,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Understand of what digital health is.
   - Understand the contents of the seminar serous.
   - Contact the instructors for proposed topics.
----
+
 * **Course Materials**
   - Slide: [Course_1]()
 
