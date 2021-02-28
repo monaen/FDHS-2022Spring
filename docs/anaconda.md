@@ -27,15 +27,19 @@ Environments allow you to separate and isolate the packages you are using for di
 
 This issue also happens a lot when dealing with Python 2 and Python 3. You might be working with old code that doesn’t run in Python 3 and new code that doesn’t run in Python 2. Having both installed can lead to a lot of confusion and bugs. It’s much better to have separate environments.
 
-You can also export the list of packages in an environment to a file, then include that file with your code. This allows other people to easily load all the dependencies for your code. Pip has similar functionality with pip freeze > requirements.txt.
-
-
+You can also export the list of packages in an environment to a file, then include that file with your code. This allows other people to easily load all the dependencies for your code. Pip has similar functionality with <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">pip freeze > requirements.txt</code>.
 
 
 
 ## Installation
 
+Anaconda is available for **Windows**, **Mac OS X**, and **Linux**. You can find the installers and installation instructions at https://www.anaconda.com/download/.
 
+If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by your scripts and programs will be the one that comes with Anaconda.
+
+Choose the Python 3.8 version (the current version). Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. Go ahead and choose the appropriate version, then install it. Continue on afterwards!
+
+After installation, you’re automatically in the default conda environment with all packages installed which you can see below. You can check out your own install by entering conda list into your terminal.
 
 
 
