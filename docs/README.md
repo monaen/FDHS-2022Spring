@@ -5,7 +5,7 @@
 | Course           | Digital Health Lab Open Lecture Series (DHLO 2021) |                              
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
 | Instructor:      | Dr. Teng Zhang (Grace), Dr. Nan Meng (Naen), Mr. Xihe Kuang (Tony), Ms. Moxin Zhao |
-| Email:           | Grace : tgzhang@hku.hk; Naen : nanmeng@hku.hk; Tony : u3006668@connect.hku.hk; Moxin : moxin@connect.hku.hk |
+| Email:           | Grace : [tgzhang@hku.hk](tgzhang@hku.hk); Naen : [nanmeng@hku.hk](nanmeng@hku.hk); Tony : [u3006668@connect.hku.hk](u3006668@connect.hku.hk); Moxin : [moxin@connect.hku.hk](moxin@connect.hku.hk) |
 | Date:            | February 24, 2021 - April 28, 2021  |
 | Term:            | 2021 Spring |
 | Duration:        | 2 months    |
@@ -17,13 +17,22 @@
 | Registration:    | [piazza.com/hku.hk/spring2021/dhlo2021](https://piazza.com/hku.hk/spring2021/dhlo2021)  |
 
 ### Course 1: Introduction to Digital Health
-* **Instructor:** Dr. Teng Zhang (Grace)
-* **Contents:**
-  - History of digital health
-  - Current applications
-  - Main industries in digital health
-  - Future potentials
-  - Course structure and deliverables
+* **Instructor**: Dr. Teng Zhang (Grace)
+* **Date**: February 24, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
+* **Introduction**: The main aim of this session is to introduce the seminar serious orientation and timelines. Digital technologies have been significantly impacting multiple aspects of our modern life. For medical practice digital tools are giving more controls to the doctors and patients over the health management. Recent new applications of digital health technologies can empower doctors for better decision making, early/auto-diagnosis, continuous/out of hospital management of chronic diseases.
+Main objectives of the current digital health efforts are to reduce inefficiencies, to improve access, to control costs, to increase quality, and to enable personalised medicine.
+* **Contents**:
+  - History of digital health.
+  - Current applications.
+  - Main industries in digital health.
+  - Future potentials.
+  - Course structure and deliverables.
+* **Outcomes**:
+  - Understand of what digital health is.
+  - Understand the contents of the seminar serous.
+  - Contact the instructors for proposed topics.
+
   
 ### Course 2: Big Data in Health Care
 * **Instructor:** Dr. Teng Zhang (Grace)
