@@ -34,7 +34,8 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Contact the instructors for proposed topics.
 
 * **Course Materials**
-  - Slide: [Course_1]()
+  - Slide: [Session01_Intro.pdf](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/Session01_intro.pdf)
+  - Video: [Session01_Intro.mp4](https://drive.google.com/file/d/19FmKhOy-bDtdVwhCwdvb2zhf82G9gmz5/view?usp=sharing)
 
   
 ### Course 2: Big Data in Health Care
