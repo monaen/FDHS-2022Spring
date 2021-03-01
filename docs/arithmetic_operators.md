@@ -65,8 +65,9 @@ Besides writing variable names that are descriptive, there are a few things to w
 
  **Keywords** in Python programming language
 
-| False   | class    | finally | is       | return |
+|         |          |         |          |        |
 | ------- | -------- | ------- | -------- | ------ |
+| False   | class    | finally | is       | return |
 | None    | continue | for     | lambda   | try    |
 | True    | def      | from    | nonlocal | while  |
 | and     | del      | global  | not      | with   |
