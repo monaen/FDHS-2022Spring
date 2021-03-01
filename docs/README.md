@@ -111,7 +111,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 ### Course 5: Deep Learning Foundation and Practice
 
 * **Instructor**: Dr. Nan Meng (Naen)
-* **Date**: March 17, 2021
+* **Date**: March 24, 2021
 * **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction**: In this course, we will introduce the deep learning techniques, such as the famous **Convolutional Neural Network**. We will go inside the learning framework and to see how the network is constructed. This includes how many types of layers are there in the common learning framework, what is the function of each type of layer, how do the layers are connected, what do the features extracted by different layers look like, etc.
 
@@ -128,8 +128,10 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 
 ### Course 6: Image Processing Foundation and Practice
-* **Instructor:** Ms. Moxin Zhao
 
+* **Instructor:** Ms. Moxin Zhao
+* **Date**: March 31, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction:** In this course, we will learn the basics of image processing, including different types of medical images, some classical processing algorithms, and practical implementation with Python. We start with introducing a number of medical images from different imaging techniques, such as X-ray, computed tomography (CT), magnetic resonance imaging, etc. Given that most of the medical images are gray-scale photographs with only one intensity channel, we subsequently introduce several processing techniques for gray-scale images, i.e., intensity transformation and historgram equalization.
 
 
@@ -144,8 +146,10 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 
 ### Course 7: Medical Image Classification and Detection
-* **Instructor:** Mr. Xihe Kuang (Tony)
 
+* **Instructor:** Mr. Xihe Kuang (Tony)
+* **Date**: April 7, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction:** In this course, we will first introduce some basic concepts of medical image classification and detection (C&D). We will discuss the major difference between the C&D tasks about medical image and common natural image. Then we will illustrate the basic process of deep learning based medical image C&D. Finally, we will introduce some commonly used deep learning models.
 
 * **Contents:**
@@ -160,8 +164,10 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 
 ### Course 8: Medical Image Segmentation and Reconstruction
-* **Instructor:** Mr. Xihe Kuang (Tony), Dr. Teng Zhang (Grace)
 
+* **Instructor:** Mr. Xihe Kuang (Tony)
+* **Date**: April 14, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction:** In this curse, we will first introduce what is the segmentation and what’s the technical and clinical significance of it. Then we will introduce different kinds of segmentation methods for medical image and discuss their advantage and disadvantage. Next, we will show how to develop a deep learning based process for the medical image segmentation by simply modified the network architecture and training strategy for classification tasks. Finally, we will illustrate how to build a 3D reconstruction model based on the segmentation result.
 
 * **Contents:**
@@ -180,6 +186,8 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 ### Course 9: Medical Simulation "FEA vs DEA"
 * **Instructor:** Dr. Sloan Kulper, Dr. Teng Zhang (Grace)
+* **Date**: April 21, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Contents:**
 * FEA application, advantages and disadvantages
 * DEA application, advantages and disadvantages
@@ -188,6 +196,8 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 ### Course 10: Machine Learning & Data Mining Foundation
 * **Instructor:** Dr. Honghan Wu, Dr. Teng Zhang (Grace)
+* **Date**: April 28, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Contents:**
 * Techniques:
   - Linear regression
