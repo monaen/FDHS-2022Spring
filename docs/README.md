@@ -33,7 +33,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Understand the contents of the seminar serous.
   - Contact the instructors for proposed topics.
 
-* **Course Materials**
+* **Course Materials**:
   - Slide: [Session01_Intro.pdf](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/Session01_intro.pdf)
   - Video: [Session01_Intro.mp4](https://drive.google.com/file/d/19FmKhOy-bDtdVwhCwdvb2zhf82G9gmz5/view?usp=sharing)
 
@@ -57,7 +57,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Understand the framework of heterogeneous medical data.
   - Basic capabilities of organizing and integrating in consideration of both human and machineinterpretable.
 
-* **Course Materials**
+* **Course Materials**:
   - Slide: 
   - Video: 
 
@@ -91,8 +91,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 ### Course 4: Python Foundation 2
 
 * **Instructor**: Dr. Nan Meng (Naen)
-* **Instructor**: Dr. Nan Meng (Naen)
-* **Date**: March 10, 2021
+* **Date**: March 17, 2021
 * **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction** In this course, we will follow what we have learned in the last course and continue to learn the logic flow and functions in Python. This course is a laboratory course in which we will learn new concepts and coding simultaneously. We will demonstrate how to control the logic flow in python, how to define and execute functions, and display/visualize image data in this course.
 
@@ -107,9 +106,13 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Be able to plot some simple function, such as sin, cos, Gaussian, etc.
   - Can visualize the image data.
 
-### Course 5: Deep Learning Foundation and Practice
-* **Instructor**: Dr. Nan Meng (Naen)
 
+
+### Course 5: Deep Learning Foundation and Practice
+
+* **Instructor**: Dr. Nan Meng (Naen)
+* **Date**: March 17, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction**: In this course, we will introduce the deep learning techniques, such as the famous **Convolutional Neural Network**. We will go inside the learning framework and to see how the network is constructed. This includes how many types of layers are there in the common learning framework, what is the function of each type of layer, how do the layers are connected, what do the features extracted by different layers look like, etc.
 
 * **Contents**:
@@ -121,6 +124,8 @@ Main objectives of the current digital health efforts are to reduce inefficienci
   - Understand the construction of classical learning framework.
   - Understand the functions of different types of layers.
   - Understand what the learned representations (features) look like.
+
+
 
 ### Course 6: Image Processing Foundation and Practice
 * **Instructor:** Ms. Moxin Zhao
