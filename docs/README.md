@@ -39,17 +39,28 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
   
 ### Course 2: Big Data in Health Care
-* **Instructor:** Dr. Teng Zhang (Grace)
+* **Instructor**: Dr. Teng Zhang (Grace)
+* **Date**: March 3, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
+* **Introduction**: With the explosion of healthcare information, there has been a tremendous amount of heterogeneous medical knowledge, which plays an essential role in healthcare information systems. Existing works for integrating and utilising the medical knowledge mainly focus on straightforward connections establishment and pay less attention to make computers interpret and retrieve knowledge correctly as well as inconsideration of the connections of different data dimensions.
 * **Contents:**
-    * **VOLUME**: the amount of data from myriad sources
-    * **VARIETY**: different types of data
-        - Multidomain: structure vs unstructure
+    * **VOLUME**: the amount of data from myriad sources.
+    * **VARIETY**: different types of data:
+        - Multidomain: structure V.S. unstructure
         - Recurrent
         - Identify clinical questions
-    * **VELOCITY**: the speed at which big data is generated
-    * **VERACITY**: the degree to which big data can be trusted
-    * **VALUE**: the business value of the data collected
-    * **VARIABILITY**: the ways in which the big data can be used and formatted
+    * **VELOCITY**: the speed at which big data is generated.
+    * **VERACITY**: the degree to which big data can be trusted.
+    * **VALUE**: the business value of the data collected.
+    * **VARIABILITY**: the ways in which the big data can be used and formatted.
+* **Outcomes**:
+  - Understand the framework of heterogeneous medical data.
+  - Basic capabilities of organizing and integrating in consideration of both human and machineinterpretable.
+
+* **Course Materials**
+  - Slide: 
+  - Video: 
+
 
 ### Course 3: Python Foundation 1
 
