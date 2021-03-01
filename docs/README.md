@@ -43,7 +43,7 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 * **Date**: March 3, 2021
 * **Time**: HKT PM 5 :15 — 6 :00
 * **Introduction**: With the explosion of healthcare information, there has been a tremendous amount of heterogeneous medical knowledge, which plays an essential role in healthcare information systems. Existing works for integrating and utilising the medical knowledge mainly focus on straightforward connections establishment and pay less attention to make computers interpret and retrieve knowledge correctly as well as inconsideration of the connections of different data dimensions.
-* **Contents:**
+* **Contents**:
     * **VOLUME**: the amount of data from myriad sources.
     * **VARIETY**: different types of data:
         - Multidomain: structure V.S. unstructure
@@ -64,14 +64,14 @@ Main objectives of the current digital health efforts are to reduce inefficienci
 
 ### Course 3: Python Foundation 1
 
-* **Instructor:** Dr. Nan Meng (Naen)
+* **Instructor**: Dr. Nan Meng (Naen)
+* **Date**: March 10, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
+* **Introduction**: In this course, we will introduce a popular programming language --- [Python](https://www.python.org/), which is widely used in various fields such as medical image processing, optimization, data analysis and visualization, etc. This course consists of two parts. In the first part, we start by introducing the **merits and benefits** of this language for medical data processing and analysis. After that, we will recommend some popular integrated development environments (IDEs) for python, such as Anaconda (distribution), Pycharm, etc.
 
-* **Introduction:** In this course, we will introduce a popular programming language --- [Python](https://www.python.org/), which is widely used in various fields such as medical image processing, optimization, data analysis and visualization, etc. This course consists of two parts. In the first part, we start by introducing the **merits and benefits** of this language for medical data processing and analysis. After that, we will recommend some popular integrated development environments (IDEs) for python, such as Anaconda (distribution), Pycharm, etc.
     Start from the second part, we will get our hands dirty. We will demonstrate how to install the Python environment and set out to work on some simple projects to figure out how the python works and master some basic rules of coding.
 
-[comment]: # (Grace thinks this section may need to be 2 course)
-
-* **Contents:**
+* **Contents**:
     - Introduction of Python.
     - Introduction of commonly used packages in Python: Numpy, Matplotlib, Scipy, etc.
     - Coding tools: Anaconda & Pycharm & Notebook.
@@ -80,41 +80,44 @@ Main objectives of the current digital health efforts are to reduce inefficienci
     - Output formats in Python.
     - Practise with Python.
 
-* **Outcomes:**
+* **Outcomes**:
     - Be able to successfully install Python environment.
     - Know about the function of different python packages.
     - Master the basic coding rules when using Python.
     - Can do some simple calculations using Python language.
     - Understand different printing formats and can control the formats of printing results.
 
+
 ### Course 4: Python Foundation 2
 
-* **Instructor:** Dr. Nan Meng (Naen)
+* **Instructor**: Dr. Nan Meng (Naen)
+* **Instructor**: Dr. Nan Meng (Naen)
+* **Date**: March 10, 2021
+* **Time**: HKT PM 5 :15 — 6 :00
+* **Introduction** In this course, we will follow what we have learned in the last course and continue to learn the logic flow and functions in Python. This course is a laboratory course in which we will learn new concepts and coding simultaneously. We will demonstrate how to control the logic flow in python, how to define and execute functions, and display/visualize image data in this course.
 
-* **Introduction:** In this course, we will follow what we have learned in the last course and continue to learn the logic flow and functions in Python. This course is a laboratory course in which we will learn new concepts and coding simultaneously. We will demonstrate how to control the logic flow in python, how to define and execute functions, and display/visualize image data in this course.
-
-* **Contents:**
+* **Contents**:
   - Logic flow in Python.
   - Define and execute function in Python.
   - Plot some simple function, such as sin, cos, Gaussian, etc.
 
-* **Outcomes:**
+* **Outcomes**:
   - Understand logic flow in Python.
   - Be able to define and execute function in Python.
   - Be able to plot some simple function, such as sin, cos, Gaussian, etc.
   - Can visualize the image data.
 
 ### Course 5: Deep Learning Foundation and Practice
-* **Instructor:** Dr. Nan Meng (Naen)
+* **Instructor**: Dr. Nan Meng (Naen)
 
-* **Introduction:** In this course, we will introduce the deep learning techniques, such as the famous **Convolutional Neural Network**. We will go inside the learning framework and to see how the network is constructed. This includes how many types of layers are there in the common learning framework, what is the function of each type of layer, how do the layers are connected, what do the features extracted by different layers look like, etc.
+* **Introduction**: In this course, we will introduce the deep learning techniques, such as the famous **Convolutional Neural Network**. We will go inside the learning framework and to see how the network is constructed. This includes how many types of layers are there in the common learning framework, what is the function of each type of layer, how do the layers are connected, what do the features extracted by different layers look like, etc.
 
-* **Contents:**
+* **Contents**:
   - Construction of classical learning framework.
   - Functions of different types of layers.
   - What the learned representations (features) look like.
 
-* **Outcomes:**
+* **Outcomes**:
   - Understand the construction of classical learning framework.
   - Understand the functions of different types of layers.
   - Understand what the learned representations (features) look like.
