@@ -1,24 +1,22 @@
 ## Arithmetic Operators
 
-* `+` **Addition**
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">+</code>: **Addition**
 
-* `-` **Subtraction**
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">-</code>: **Subtraction**
 
-* `*` **Multiplication**
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">*</code>: **Multiplication**
 
-* `/` **Division**
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">/</code>: **Division**
 
-* `%` **Mod**: give the remainder after dividing
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">%</code>: **Mod**: give the remainder after dividing
 
-* `**` **Exponentiation** (note that `^` does not do this operation, as you might have seen in other languages)
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">**</code>: **Exponentiation** (note that `^` does not do this operation, as you might have seen in other languages)
 
-* `//` **Integer division**: Divides and rounds down to the nearest integer
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">//</code>: **Integer division**: Divides and rounds down to the nearest integer
 
-* `^` **Bitwise XOR**
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">^</code>: **Bitwise XOR**
 
 The usual order of mathematical operations holds in Python. Bitwise operators are special operators in Python that you can learn more about [here](https://wiki.python.org/moin/BitwiseOperators) if you'd like.
-
-
 
 
 ## Variables and Assignment Operators
