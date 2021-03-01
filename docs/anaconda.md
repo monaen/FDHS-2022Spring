@@ -39,6 +39,7 @@ Or you can also find the installation guidelines from the following links:
 
 * [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 * [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
+* [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by your scripts and programs will be the one that comes with Anaconda.
 
