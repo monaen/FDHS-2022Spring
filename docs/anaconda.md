@@ -48,7 +48,18 @@ Choose the Python 3.8 version (the current version). Also, choose the 64-bit ins
 After installation, you’re automatically in the default conda environment with all packages installed which you can see below. You can check out your own install by entering conda list into your terminal.
 
 
+A number of applications are installed along with Anaconda:
 
+* **Anaconda Navigator**, a GUI for managing your environments and packages
+* **Anaconda Prompt**, a terminal where you can use the command line interface to manage your environments and packages
+* **Spyder**, an IDE geared toward scientific development
+
+To avoid errors later, it's best to update all the packages in the default environment. Open the Anaconda Prompt application. In the prompt, run the following commands:
+
+```python
+conda upgrade conda
+conda upgrade --all
+```
 
 
 
