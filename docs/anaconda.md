@@ -33,9 +33,9 @@ You can also export the list of packages in an environment to a file, then inclu
 
 ## Installation
 
-Anaconda is available for **Windows**, **Mac OS X**, and **Linux**. You can find the installers and installation instructions at the official webpage [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
+Anaconda is available for diverse systems including **Windows**, **Mac OS X**, and **Linux**. You can find the installers at the official webpage [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
 
-Or you can also find the installation guidelines from the following links:
+And you can also find the installation guidelines from the following links:
 
 * [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 * [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
@@ -43,7 +43,7 @@ Or you can also find the installation guidelines from the following links:
 
 If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by your scripts and programs will be the one that comes with Anaconda.
 
-Choose the Python 3.8 version (the current version). Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. Go ahead and choose the appropriate version, then install it. Continue on afterwards!
+Choose the Python 3.8 version (the current version). Also, choose the 64-bit installer if you have a 64-bit operating system, otherwise go with the 32-bit installer. Go ahead and choose the appropriate version, then install it. For windows users 
 
 After installation, you’re automatically in the default conda environment with all packages installed which you can see below. You can check out your own install by entering conda list into your terminal.
 
@@ -54,7 +54,7 @@ A number of applications are installed along with Anaconda:
 * **Anaconda Prompt**, a terminal where you can use the command line interface to manage your environments and packages
 * **Spyder**, an IDE geared toward scientific development
 
-To avoid errors later, it's best to update all the packages in the default environment. Open the Anaconda Prompt application. In the prompt, run the following commands:
+To avoid errors later, it's best to update all the packages in the default environment. Open the **Anaconda Prompt** application. In the prompt, run the following commands:
 
 ```python
 conda upgrade conda
