@@ -87,7 +87,7 @@ Note that: In the previous step, running <code style="color:#fff;background-colo
 
 [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png)
 
-From now on, you have successfully installed the Anaconda and updated the conda package. In Session 3, we will use the  JupyterLab to learn python and manage the course projects. You are also encouraged to explore JupyterLab before the session. There are many resources about how to use JupyterLab from both the official websites or the others courses. Have fun with it!
+From now on, you have successfully installed the Anaconda and updated the conda package. In Session 3, we will use the  JupyterLab to learn python and manage the course projects. You are also encouraged to explore JupyterLab before the session. There are many resources about how to use JupyterLab from both the official website or the other courses. Have fun with it!
 
 
 
