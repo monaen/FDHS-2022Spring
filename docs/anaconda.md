@@ -56,8 +56,10 @@ A number of applications are installed along with Anaconda:
 * **Notebook**, a web application that allows users to create and share documents that contain live code, equations, visualizations and text
 * **JupyterLab**, a web-based interactive development environment (IDE) for Jupyter notebooks, code, and data. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) helps to configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning.
 
-In this course, we will use the **JupyterLab** to manage the course projects and codes. To start the JupyterLab, one can start by opening the Anaconda Navigator
+In this course, we will use the **JupyterLab** to manage the course projects and codes. To start the JupyterLab, one can start by opening the **Anaconda Navigator**,
+1. Run the **Anaconda Navigator** from the
 
+<img src="../materials/images/2.jpg" alt="Anaconda Navigator" width="200">
 
 
 
