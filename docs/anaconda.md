@@ -59,7 +59,7 @@ A number of applications are installed along with Anaconda:
 In this course, we will use the **JupyterLab** to manage the course projects and codes. To start the JupyterLab, one can start by opening the **Anaconda Navigator**,
 1. Run the **Anaconda Navigator** from the
 
-<img src="../materials/images/2.jpg" alt="Anaconda Navigator" width="200">
+<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/1.png" alt="Anaconda Navigator" width="300">
 
 
 
