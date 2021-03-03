@@ -81,7 +81,7 @@ conda upgrade --all
 ```
 and answer (type) <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">y</code> for "yes" when asked if you want to install the packages. The packages that come with the initial install tend to be out of date, so updating them now will prevent future errors from out of date software.
 
-Note: In the previous step, running <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda upgrade conda</code> should not be necessary because <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">--all</code> includes the conda package itself, but some users have encountered errors without it.
+Note that: In the previous step, running <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda upgrade conda</code> should not be necessary because <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">--all</code> includes the conda package itself, but some users have encountered errors without it.
 
 [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png)
 
