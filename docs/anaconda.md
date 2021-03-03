@@ -54,9 +54,9 @@ A number of applications are installed along with Anaconda:
 * **Anaconda Prompt**, a terminal where you can use the command line interface to manage your environments and packages
 * **Spyder**, an IDE geared toward scientific development
 * **Notebook**, a web application that allows users to create and share documents that contain live code, equations, visualizations and text
-* **JupyterLab**, a 
+* **JupyterLab**, a web-based interactive development environment (IDE) for Jupyter notebooks, code, and data. [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) helps to configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning.
 
-
+In this course, we will use the **JupyterLab** to manage the course projects and codes. To start the JupyterLab, one can start by opening the Anaconda Navigator
 
 
 
