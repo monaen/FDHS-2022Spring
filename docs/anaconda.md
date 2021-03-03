@@ -79,16 +79,15 @@ In the prompt, run the following commands:
 conda upgrade conda
 conda upgrade --all
 ```
-and answer `y` for yes when asked if you want to install the packages. The packages that come with the initial install tend to be out of date, so updating them now will prevent future errors from out of date software.
+and answer <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">y</code> for "yes" when asked if you want to install the packages. The packages that come with the initial install tend to be out of date, so updating them now will prevent future errors from out of date software.
 
-Note: In the previous step, running conda upgrade conda should not be necessary because --all includes the conda package itself, but some users have encountered errors without it.
+Note: In the previous step, running <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda upgrade conda</code> should not be necessary because <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">--all</code> includes the conda package itself, but some users have encountered errors without it.
 
-In the rest of this lesson, I'll be asking you to use commands in your terminal. I highly suggest you start working with Anaconda this way, then later use the GUI if you'd like.
 [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png)
 
 [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png)
 
-
+From now on, you have successfully installed the Anaconda and updated the conda package. In Session 3, we will use the  JupyterLab to learn python and manage the course projects. You are also encouraged to explore JupyterLab before the session. There are many resources about how to use JupyterLab from both the official websites or the others courses. Have fun with it!
 
 
 
