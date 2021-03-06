@@ -10,7 +10,7 @@
 
 * <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">%</code>: **Mod**: give the remainder after dividing
 
-* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">**</code>: **Exponentiation** (note that `^` does not do this operation, as you might have seen in other languages)
+* <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">**</code>: **Exponentiation** (note that <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">^</code> does not do this operation, as you might have seen in other languages)
 
 * <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">//</code>: **Integer division**: Divides and rounds down to the nearest integer
 
@@ -22,9 +22,11 @@ The usual order of mathematical operations holds in Python. Bitwise operators ar
 ## Variables and Assignment Operators
 Variables are used all the time in Python! Below is an example:
 
-`mv_population = 74728`
+```python
+mv_population = 74728
+```
 
-Here `mv_population` is a **variable**, which holds the value of 74728. The equal sign `=` is an **assignment operator** which assigns the item on the right to the variable name on the left, which is actually a little different than mathematical equality, as 74728 does not hold the value of mv_population.
+Here <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">mv_population</code> is a **variable**, which holds the value of 74728. The equal sign <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">=</code> is an **assignment operator** which assigns the item on the right to the variable name on the left, which is actually a little different than mathematical equality, as 74728 does not hold the value of mv_population.
 
 In any case, whatever term is on the left side, is now a name for whatever value is on the right side. Once a value has been assigned to a variable name, you can access the value from the variable name.
 
@@ -37,7 +39,7 @@ print(y)
 >>> 2
 ```
 If you try to access a variable that was never defined, you will get the following error message:
-```
+```python
 NameError: name 'z' is not defined
 ```
 
@@ -82,13 +84,13 @@ my_long = 105
 
 #### Assignment Operators
 
-1. `=` assigns the value on the right side to the variable on the left side.
+1. The equal sign <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">=</code> assigns the value on the right side to the variable on the left side.
 
-2. `+=` e.g., `x += 2` is equivalent to `x = x + 2`
+2. The equal sign <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">+=</code> e.g., The equal sign <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">x += 2</code> is equivalent to <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">x = x + 2</code>.
 
-3. `-=` e.g., `x -= 2` is equivalent to `x = x - 2`
+3. The equal sign <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">-=</code> e.g., <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">x -= 2</code> is equivalent to <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">x = x - 2</code>.
 
-The above three assignment operators are the most commonly used ones. There are some other assignment operators from the video. For example, you can also use `*=` in a similar way, but this is less common than the operations shown above. You can find some practice with much of what we have already covered [here](https://www.programiz.com/python-programming/operators).
+The above three assignment operators are the most commonly used ones. There are some other assignment operators from the video. For example, you can also use <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">*=</code> in a similar way, but this is less common than the operations shown above. You can find some practice with much of what we have already covered [here](https://www.programiz.com/python-programming/operators).
 
 
 ## Summary
