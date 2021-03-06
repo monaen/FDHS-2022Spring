@@ -126,7 +126,7 @@ Comparison operators are used to compare values. It returns either **True** or *
 
 3) **Logical operators**:
 
-Logical operators are the `and`, `or`, `not` operators.
+Logical operators are the <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">and</code>, <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">or</code>, <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">not</code> operators.
 
 | Operator | Meaning | Example |
 | ------------ | ------------ | ------------ |
@@ -139,27 +139,27 @@ Logical operators are the `and`, `or`, `not` operators.
 
  Bitwise operators act on operands as if they were strings of binary digits. They operate bit by bit, hence the name.
 
- For example, 2 is `10` in binary and 7 is `111`.
+ For example, 2 is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">10</code> in binary and 7 is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">111</code>.
 
- In the table below: Let `x = 10` (`0000 1010` in binary) and `y = 4` (`0000 0100` in binary)
+ In the table below: Let <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">x = 10</code> (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1010</code> in binary) and <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">y = 4</code> (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 0100</code> in binary)
 
 | Operator  | Meaning  | Example  |
 | ------------ | ------------ | ------------ |
-| &   | Bitwise AND         | x & y = 0 (`0000 0000`)  |
-| \|  | Bitwise OR          | x | y = 14 (`0000 1110`) |
-| ~   | Bitwise NOT         | ~x = -11 (`1111 0101`)   |
-| ^   | Bitwise XOR         | x ^ y = 14 (`0000 1110`) |
-| >>  | Bitwise right shift | x >> 2 = 2 (`0000 0010`)  |
-| <<  | Bitwise left shift  | x << 2 = 40 (`0010 1000`)  |
+| &   | Bitwise AND         | x & y = 0 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 0000</code>)  |
+| \|  | Bitwise OR          | x | y = 14 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1110</code>) |
+| ~   | Bitwise NOT         | ~x = -11 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">1111 0101</code>)   |
+| ^   | Bitwise XOR         | x ^ y = 14 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1110</code>) |
+| >>  | Bitwise right shift | x >> 2 = 2 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 0010</code>)  |
+| <<  | Bitwise left shift  | x << 2 = 40 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0010 1000</code>)  |
 
 5) **Assignment operators**:
 
  Assignment operators are used in Python to assign values to variables.
 
- `a = 5` is a simple assignment operator that assigns the value 5 on the right to the variable `a` on the left.
+ <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">a = 5</code> is a simple assignment operator that assigns the value **5** on the right to the variable **a** on the left.
 
- There are various compound operators in Python like `a += 5` that adds to the variable and later assigns the same.
- It is equivalent to `a = a + 5`.
+ There are various compound operators in Python like <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">a += 5</code> that adds to the variable and later assigns the same.
+ It is equivalent to <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">a = a + 5</code>.
 
 | Operator     | Meaning       |  Equivalent to |
 | ------------ | ------------- | -------------- |
