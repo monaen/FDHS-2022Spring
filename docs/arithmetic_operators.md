@@ -146,7 +146,7 @@ Logical operators are the <code style="color:#fff;background-color:#2f3d48;borde
 | Operator  | Meaning  | Example  |
 | ------------ | ------------ | ------------ |
 | &   | Bitwise AND         | x & y = 0 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 0000</code>)  |
-| \|  | Bitwise OR          | x | y = 14 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1110</code>) |
+| \|  | Bitwise OR          | x \| y = 14 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1110</code>) |
 | ~   | Bitwise NOT         | ~x = -11 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">1111 0101</code>)   |
 | ^   | Bitwise XOR         | x ^ y = 14 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 1110</code>) |
 | >>  | Bitwise right shift | x >> 2 = 2 (<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">0000 0010</code>)  |
