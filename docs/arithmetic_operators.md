@@ -189,7 +189,7 @@ is and is not are the identity operators in Python. They are used to check if tw
 
 7) **Membership operators**:
 
-`in` and `not in` are the membership operators in Python. They are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary).
+<code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">in</code> and <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">not in</code> are the membership operators in Python. They are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary).
 
  In a dictionary we can only test for presence of key, not the value.
 
