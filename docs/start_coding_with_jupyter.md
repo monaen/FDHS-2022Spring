@@ -24,6 +24,6 @@ JupyterLab can be started from Anaconda Navigator, if you haven't install Anacon
 
 5. Download the project and save it to a project folder (e.g., the project folder named <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">DHLO2021_project</code>) in your computer <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">Document</code> folder.
 
-**Note**: If you choose to start the JupyterLab from Anaconda Navigator, the default starting path is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">C:\Users\username</code>
+**Note**: If you choose to start the JupyterLab from Anaconda Navigator, the default starting path is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">C:\Users\username</code>. As a result, 
 
 
