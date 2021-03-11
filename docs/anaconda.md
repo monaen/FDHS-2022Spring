@@ -71,7 +71,7 @@ In this course, we will use the **JupyterLab** to manage the course projects and
 
 4.(optional) To avoid errors later, it's best to update all the packages in the default environment. Open the **Terminal** application by clicking the button
 
-    [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png" alt="Anaconda Navigator" width="300">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png)
+   [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png" alt="Anaconda Navigator" width="300">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png)
 
 
 In the prompt, run the following commands:
@@ -83,9 +83,9 @@ and answer (type) <code style="color:#fff;background-color:#2f3d48;border-radius
 
 Note that: In the previous step, running <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">conda upgrade conda</code> should not be necessary because <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">--all</code> includes the conda package itself, but some users have encountered errors without it.
 
-    [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png)
+   [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/5.png)
 
-    [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png)
+   [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/6.png)
 
 From now on, you have successfully installed the Anaconda and updated the conda package. In Session 3, we will use the  JupyterLab to learn python and manage the course projects. You are also encouraged to explore JupyterLab before the session. There are many resources about how to use JupyterLab from both the official website or the other courses. Have fun with it!
 
