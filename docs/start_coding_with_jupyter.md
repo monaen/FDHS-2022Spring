@@ -34,3 +34,17 @@ JupyterLab can be started from Anaconda Navigator, if you haven't install Anacon
 
 [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.PNG" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.PNG)
 
+
+### 2. Open the JupyterLab using Anaconda Prompt
+
+Another way to start the JupyterLab is to use Anaconda Prompt.
+
+1. Start the Anaconda Prompt application from your computer.
+
+[<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/anaconda_prompt.PNG" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/anaconda_prompt.jpg)
+
+2. Direct to the project folder (e.g. <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">F:\DHLO2021_project</code>) where you saved your project files.
+    * Switch to <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">F:\\</code> disk: Type <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">f:</code> and press `Enter`.
+    * Direct to the project folder: Type <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">cd DHLO2021_project</code>.
+    * Run the JupyterLab: Type <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">jupyter-lab</code> and press `Enter`.
+
