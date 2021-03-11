@@ -22,8 +22,13 @@ JupyterLab can be started from Anaconda Navigator, if you haven't install Anacon
 
 4. (optional) To avoid errors later, it's best to update all the packages in the default environment. To save space, you can follow the 4th step in [Anaconda installation page](https://monaen.github.io/DHLO-2021Spring/anaconda) to update the conda.
 
-5. Download the project and save it to a project folder (e.g., the project folder named <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">DHLO2021_project</code>) in your computer <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">Document</code> folder.
+5. Download the project and save it to a project folder (e.g., <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">DHLO2021_project</code>) in your computer <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">Document</code> folder.
 
-**Note**: If you choose to start the JupyterLab from Anaconda Navigator, the default starting path is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">C:\Users\username</code>. As a result, 
+**Note**: If you choose to start the JupyterLab from Anaconda Navigator, the default starting path is <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">C:\Users\username</code>. As a result, if you save the project files in another disk (for example <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">F:\DHLO2021_project</code>), you may not find it.
 
+6. In JupyterLab, direct to your project folder and open the project file (double clicking) to start your coding!
+[<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_files.png" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_files.png)
+
+7. You can also make a new project folder and upload the project files to your proejct folder using the uploading button.
+[<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.png" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.png)
 
