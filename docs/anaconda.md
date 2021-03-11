@@ -69,7 +69,7 @@ In this course, we will use the **JupyterLab** to manage the course projects and
 
     [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/3.png" alt="Anaconda Navigator" width="800">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/3.png)
 
-4.(optional) To avoid errors later, it's best to update all the packages in the default environment. Open the **Terminal** application by clicking the button
+4. (optional) To avoid errors later, it's best to update all the packages in the default environment. Open the **Terminal** application by clicking the button
 
    [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png" alt="Anaconda Navigator" width="300">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/4.png)
 
