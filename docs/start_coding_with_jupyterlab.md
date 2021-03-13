@@ -30,7 +30,7 @@ JupyterLab can be started from Anaconda Navigator, if you haven't install Anacon
 
     [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_files.png" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_files.png)
 
-7. You can also make a new project folder and upload the project files to your proejct folder using the uploading button.
+7. You can also make a new project folder and upload the project files to your project folder using the uploading button.
 
     [<img src="https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.PNG" alt="Anaconda Navigator" width="600">](https://github.com/monaen/DHLO-2021Spring/raw/main/materials/images/projects/project_upload.PNG)
 
