@@ -5,7 +5,7 @@
 | Course           | Digital Health Lab Open Lecture Series (DHLO 2021) |                              
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
 | Instructor:      | Dr. Teng Zhang (Grace), Dr. Nan Meng (Naen), Mr. Xihe Kuang (Tony), Ms. Moxin Zhao |
-| Email:           | Grace: [tgzhang@hku.hk](tgzhang@hku.hk); Naen: [nanmeng@hku.hk](nanmeng@hku.hk); Tony: [u3006668@connect.hku.hk](u3006668@connect.hku.hk); Moxin: [moxin@connect.hku.hk](moxin@connect.hku.hk) |
+| Email:           | Grace: [tgzhang@hku.hk](tgzhang@hku.hk); Nan Meng(Naen): [nanmeng@hku.hk](nanmeng@hku.hk); Tony: [u3006668@connect.hku.hk](u3006668@connect.hku.hk); Moxin: [moxin@connect.hku.hk](moxin@connect.hku.hk) |
 | Date:            | February 24, 2021 - April 28, 2021  |
 | Term:            | 2021 Spring |
 | Duration:        | 2 months    |
