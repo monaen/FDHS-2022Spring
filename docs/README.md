@@ -6,8 +6,8 @@
 | ---------------- | ---------------------------------------------------------------------------------------------------- |
 | Instructor:      | Dr. Teng Zhang (Grace), Dr. Nan Meng (Naen), Mr. Xihe Kuang (Tony), Ms. Moxin Zhao |
 | Email:           | Grace: [tgzhang@hku.hk](tgzhang@hku.hk); Nan Meng(Naen): [nanmeng@hku.hk](nanmeng@hku.hk); Tony: [u3006668@connect.hku.hk](u3006668@connect.hku.hk); Moxin: [moxin@connect.hku.hk](moxin@connect.hku.hk) |
-| Date:            | February 24, 2021 - April 28, 2021  |
-| Term:            | 2021 Spring |
+| Date:            | March 2, 2021 - May 9, 2021  |
+| Term:            | 2022 Spring |
 | Duration:        | 2 months    |
 | Host:            | Digital Health Lab from Dept. Orthopedics and Traumatology && AIMed-DOT |
 | Zoom:            | [https://hku.zoom.us/j/3989937358?pwd=TW94Z2pQZHFKMUg1UklCbE1nMGdPUT09](https://hku.zoom.us/j/3989937358?pwd=TW94Z2pQZHFKMUg1UklCbE1nMGdPUT09) |
