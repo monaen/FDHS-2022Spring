@@ -2,7 +2,7 @@
 
 ## Instruction
 
-In session 03, we have introduced some foundations of python, including data type, variables, operators, etc. We've also provided the guidelines and rules for coding as well as the printing format. As your howework, for each topic, we organize all the related materials into a project file. The project file is an notebook file with the <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">.ipynb</code> extension. This page provide an instruction on how to run the JupyterLab in your computer and open the project files in it.
+In session 02, we have introduced some foundations of python, including data type, variables, operators, etc. We've also provided the guidelines and rules for coding as well as the printing format. As your howework, for each topic, we organize all the related materials into a project file. The project file is an notebook file with the <code style="color:#fff;background-color:#2f3d48;border-radius: 4px;border: 1px solid #737b83;padding: 2px 4px">.ipynb</code> extension. This page provide an instruction on how to run the JupyterLab in your computer and open the project files in it.
 
 ### 1. Open the JupyterLab from Anaconda Navigator
 
